@@ -28,7 +28,7 @@ for episode in range(300):
                 act[:, :4] = quaternion
             env_info = env.step(act)[default_brain]
         else:
-            a = int(raw_input("input: "))
+            a = int(input("input: "))
             env_info = env.step(a)[default_brain]
 
         done = np.any(env_info.local_done)
