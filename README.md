@@ -24,3 +24,7 @@ As well as in blog posts here:
 https://ai.googleblog.com/2018/10/curiosity-and-procrastination-in.html
 
 https://blog.openai.com/reinforcement-learning-with-prediction-based-rewards 
+
+The unity interface is from a very early version of this:
+
+https://github.com/Unity-Technologies/ml-agents
